@@ -1,5 +1,4 @@
 #!/bin/bash
-yum update -y
 useradd --no-create-home --shell /bin/false prometheus
 useradd --no-create-home --shell /bin/false node_exporter
 mkdir /etc/prometheus
