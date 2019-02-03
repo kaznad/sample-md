@@ -12,8 +12,7 @@ Stack to monitor instance CPU, Memory and Disk Usage
 
 Installing on AWS EC2 instance
 
-Ensure that a role with S3 read access is given to EC2 instance
-Create a security group that allows ports 80, 2024, 2003, 2023, 9090, 8216, 3000, 9100, 8125, 2004 and 22
+Ensure that a role with S3 read access is given to EC2 instance and create a security group that allows ports 80, 2024, 2003, 2023, 9090, 8216, 3000, 9100, 8125, 2004 and 22
   
 ### Installing
 
